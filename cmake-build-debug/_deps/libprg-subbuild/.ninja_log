@@ -1,0 +1,21 @@
+# ninja log v5
+1	12	1702402092032472893	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-mkdir	25f7b53da12b2f22
+1	12	1702402092032472893	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-mkdir	25f7b53da12b2f22
+12	1688	1702402093709149270	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-download	f1d12ffa3026c7a7
+12	1688	1702402093709149270	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-download	f1d12ffa3026c7a7
+1688	2357	0	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-update	8da999769070b8f2
+1688	2357	0	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-update	8da999769070b8f2
+2357	2364	1702402094385820109	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-patch	d9afafe1e3e9796f
+2357	2364	1702402094385820109	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-patch	d9afafe1e3e9796f
+2364	2371	1702402094392486816	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-configure	dd683fe611a9ff08
+2364	2371	1702402094392486816	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-configure	dd683fe611a9ff08
+2371	2378	1702402094399153524	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-build	8b141004eed7b2a9
+2371	2378	1702402094399153524	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-build	8b141004eed7b2a9
+2378	2386	1702402094409153586	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-install	bba4bca91a4b5c74
+2378	2386	1702402094409153586	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-install	bba4bca91a4b5c74
+2386	2393	1702402094415820293	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-test	3ea8a3c6f6bd8942
+2386	2393	1702402094415820293	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-test	3ea8a3c6f6bd8942
+2393	2403	1702402094425820355	CMakeFiles/libprg-populate-complete	d0604d98c12007e0
+2393	2403	1702402094425820355	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-done	d0604d98c12007e0
+2393	2403	1702402094425820355	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate-complete	d0604d98c12007e0
+2393	2403	1702402094425820355	/home/jamilly/Faculdade/Prog2/LoginESenha_Arvore/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-done	d0604d98c12007e0

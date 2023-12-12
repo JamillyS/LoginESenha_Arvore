@@ -1,0 +1,18 @@
+# ninja log v5
+2	82	1702402095265825533	CMakeFiles/LoginESenha_Arvore.dir/_deps/libprg-src/libprg/src/libprg/sum.c.o	50bf2fae0fe00f9d
+1	402	1702402107839236373	CMakeFiles/LoginESenha_Arvore.dir/_deps/libprg-src/libprg/src/libprg/sub.c.o	1916712a47c27d0a
+1	760	1702402108195905238	CMakeFiles/LoginESenha_Arvore.dir/processamento.c.o	ce9241a8dd9e7696
+760	810	1702402108249238900	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/test_lista_encadeada.c.o	f638b076f5050646
+402	876	1702402108312572624	CMakeFiles/LoginESenha_Arvore.dir/_deps/libprg-src/libprg/src/libprg/libprg.c.o	ef0fef2fe54b76f3
+0	881	1702402108319239332	CMakeFiles/LoginESenha_Arvore.dir/main.c.o	26d08821472cd20d
+876	934	1702402108372572994	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/fila.c.o	ef0be1ba060d0380
+881	939	1702402108375906347	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/pilha.c.o	103098fbd2440f0
+934	990	1702402108429240010	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/lista_encadeada.c.o	22b6e5554e0c932
+939	999	1702402108435906717	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/tabela_hash.c.o	b34e7ee92d2e9486
+810	1003	1702402108439240071	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/lista_linear.c.o	33143b06daad9045
+1003	1029	1702402108465906902	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/sub.c.o	82c0a3380716fb09
+1000	1037	1702402108472573610	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/sum.c.o	207644e0930d1a6
+990	1043	1702402108479240318	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/arvore.c.o	8c73f75aeb58916f
+1029	1060	1702402108499240441	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/libprg.c.o	818eb2d15ddaba69
+1060	2050	1702402109355912388	_deps/libprg-build/libprg/liblibprg.a	530de5507ce356ce
+2050	2090	1702402109525913436	LoginESenha_Arvore	cdb9604394e18596
